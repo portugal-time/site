@@ -1,0 +1,8 @@
+.wrapper {
+    background-position: center center;
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-bottom: 750px;
+}
